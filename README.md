@@ -42,6 +42,7 @@ A powerful Python-based text summarization tool that leverages Natural Language 
 -5)Performance.
 
 **Installation**
+
 Prerequisites
 Python 3.6 or higher
 
