@@ -89,6 +89,7 @@ print(summary)
 **Summarization Methods**
  
 1. Frequency-Based Summarization (frequency)
+   
 How it works:
 
 Calculates word frequency across the text
@@ -103,6 +104,7 @@ python
 summary = summarizer.summarize(text, method='frequency', num_sentences=3)
 
 2. TF-IDF Summarization (tfidf)
+   
 How it works:
 
 Computes Term Frequency-Inverse Document Frequency scores
@@ -117,6 +119,7 @@ python
 summary = summarizer.summarize(text, method='tfidf', num_sentences=3)
 
 3. TextRank Summarization (textrank)
+   
 How it works:
 
 Applies Google's PageRank algorithm to sentence similarity graphs
