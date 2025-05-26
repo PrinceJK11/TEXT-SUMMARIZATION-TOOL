@@ -58,6 +58,7 @@ git clone <repository-url>
 cd article-summarization-tool
 
 **Quick Start**
+
 Run the Demo
 
 bash
@@ -71,6 +72,7 @@ Show compression and performance statistics
 Offer interactive mode for custom input text
 
 **Usage Examples**
+
 python
 from article_summarizer import ArticleSummarizer
 
