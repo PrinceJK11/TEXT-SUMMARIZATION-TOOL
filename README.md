@@ -19,7 +19,8 @@ A powerful Python-based text summarization tool that leverages Natural Language 
 
 **Features**
 
- Multiple Summarization Methods: Choose from 3 NLP algorithms
+ -Multiple Summarization Methods: Choose from 3 NLP algorithms.  
+ 
 
  No NLTK Dependency: Uses only standard Python libraries and scikit-learn
 
@@ -35,7 +36,8 @@ A powerful Python-based text summarization tool that leverages Natural Language 
 
 **Table of Contents**
 
-1)Installation
+-Installation.  
+
 2)Quick Start
 3)Summarization Methods
 4)Usage Examples
