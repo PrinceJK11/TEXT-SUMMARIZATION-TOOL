@@ -19,29 +19,27 @@ A powerful Python-based text summarization tool that leverages Natural Language 
 
 **Features**
 
- -Multiple Summarization Methods: Choose from 3 NLP algorithms.  
+ -1)Multiple Summarization Methods: Choose from 3 NLP algorithms.  
  
+ -2)No NLTK Dependency: Uses only standard Python libraries and scikit-learn.
 
- No NLTK Dependency: Uses only standard Python libraries and scikit-learn
+ -3)Interactive Mode: Real-time summarization with custom input.
 
- Interactive Mode: Real-time summarization with custom input
+ -4)Comprehensive Demo: Pre-loaded sample articles for testing.
 
- Comprehensive Demo: Pre-loaded sample articles for testing
+ -5)Advanced Text Processing: Intelligent sentence tokenization and preprocessing.
 
- Advanced Text Processing: Intelligent sentence tokenization and preprocessing
+ -6)Statistical Analysis: Detailed compression ratios and text stats.
 
- Statistical Analysis: Detailed compression ratios and text stats
-
- Robust Error Handling: Graceful fallbacks between summarization methods
+ -7)Robust Error Handling: Graceful fallbacks between summarization methods.
 
 **Table of Contents**
 
--Installation.  
-
-2)Quick Start
-3)Summarization Methods
-4)Usage Examples
-5)Performance
+-1)Installation.  
+-2Quick Start.  
+-3)Summarization Methods.  
+-4)Usage Examples.
+-5)Performance.
 
 **Installation**
 Prerequisites
