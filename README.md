@@ -13,10 +13,12 @@
 *MENTOR*: NEELA SANTOSH
 
 
-Article Summarization Tool
+***Article Summarization Tool***
+
 A powerful Python-based text summarization tool that leverages Natural Language Processing (NLP) techniques to generate concise summaries from lengthy articles. This tool implements three different extractive summarization algorithms without relying on NLTK.
 
-Features
+**Features**
+
  Multiple Summarization Methods: Choose from 3 NLP algorithms
 
  No NLTK Dependency: Uses only standard Python libraries and scikit-learn
@@ -32,6 +34,7 @@ Features
  Robust Error Handling: Graceful fallbacks between summarization methods
 
 **Table of Contents**
+
 1)Installation
 2)Quick Start
 3)Summarization Methods
