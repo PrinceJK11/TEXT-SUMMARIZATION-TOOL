@@ -133,6 +133,12 @@ Best for: Academic, analytical, or interconnected content
 python
 summary = summarizer.summarize(text, method='textrank', num_sentences=3)
 
+
+#OUTPUT
+
+![image](https://github.com/user-attachments/assets/a56cfe0d-58d8-45fe-bdac-7746ad3ee840)
+
+
 **Performance**
 Summarization speed and accuracy may vary by method and article type.
 
