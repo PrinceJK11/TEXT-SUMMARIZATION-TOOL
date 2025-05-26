@@ -36,9 +36,9 @@ A powerful Python-based text summarization tool that leverages Natural Language 
 **Table of Contents**
 
 -1)Installation.  
--2Quick Start.  
+-2)Quick Start.  
 -3)Summarization Methods.  
--4)Usage Examples.
+-4)Usage Examples.  
 -5)Performance.
 
 **Installation**
